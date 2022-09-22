@@ -24,3 +24,12 @@
 - git rm --cached test.txt (nom fichier)
 - git add .
 - git status
+- get reset HEAD <name file>
+
+- git log : liste tous les commits
+
+- git mv <oldname> <newname> : rename en le déplacant 
+
+- git log --pretty=oneline
+
+- git branch -d <name file> :  delete une branch
