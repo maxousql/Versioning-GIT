@@ -24,9 +24,12 @@ Permet de remonter facilement, récupérer la version du code
 
 ## Pear to pear
 
-**Système décentralisé**, un des noeauds tombe et bien la dernière information tout le monde peut l'avoir car elle est copé à chaque endroit ou une IP est reconnu.
-
-**Système centralisé**, est fragile si tout le monde l'utilise, si un noeud tombe tout est perdu car il n'y a pas de copie.
+> **Système décentralisé**, un des noeauds tombe et bien la dernière 
+> information tout le monde peut l'avoir car elle est copé à chaque 
+> endroit ou une IP est reconnu.
+>
+> **Système centralisé**, est fragile si tout le monde l'utilise, si un 
+> noeud tombe tout est perdu car il n'y a pas de copie.
 
 ## Vocabulaire
 
